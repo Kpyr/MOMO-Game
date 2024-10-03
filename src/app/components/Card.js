@@ -15,3 +15,4 @@ const Card = ({ card, onClick, isMatched }) => {
 };
 
 export default Card;
+
